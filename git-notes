@@ -1,0 +1,19 @@
+GIT & GITHUB
+
+Module 1
+
+Git is a distributed version control system (DVCS).
+A repository (repo) contains project folders
+A fork is a copy of a repo
+Pull requests define changes that are commited and ready for review before being merged into the main branch
+A commit is a snapshot in time of a project and a description of changes
+A branch is a seperate line of development
+A merge combines branches
+Cloning creates a local copy of a remote Git repo
+
+What is Git?
+Git is a DVCS used to track changes to content . It provides a central point for collaboration and is amenable to Agile practices
+Git allows for centralized project administration. Teams have controlled access. The central branch should be deployable code
+
+What is Github?
+Github is an online hosting service for Git repos. A repo is a data structure for storing documents with version control
