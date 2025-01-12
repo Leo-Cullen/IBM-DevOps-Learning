@@ -26,4 +26,6 @@ multiple branches can be created and merged with the main branch.
 A pull request is a way to notify other team members of the changes and edits made to the main branch.
 
 Git Commands
+
+git init
  
